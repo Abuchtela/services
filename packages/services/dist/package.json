@@ -13,7 +13,7 @@
   "dependencies": {
     "@google-cloud/secret-manager": "^3.11.0",
     "@google-cloud/storage": "^5.18.2",
-    "@google-cloud/tasks": "^2.5.0",
+    "@google-cloud/tasks": "^3.0.0",
     "googleapis": "^100.0.0",
     "deepmerge": "^4.2.2",
     "dotenv": "^16.0.0",
