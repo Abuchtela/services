@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "ethers": "5.6.8",
-    "node-fetch": "^3.2.3"
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "pino-pretty": "^7.5.3",
