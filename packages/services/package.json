@@ -42,7 +42,7 @@
     "@kernel/task": "^0.0.1",
     "deepmerge": "^4.2.2",
     "dotenv": "^16.0.0",
-    "ethers": "5.6.8",
+    "ethers": "6.0.0",
     "fastify": "^4.24.1",
     "googleapis": "^100.0.0"
   },
