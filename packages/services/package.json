@@ -33,7 +33,7 @@
   "dependencies": {
     "@fastify/cookie": "^7.0.0",
     "@fastify/sensible": "^5.0.0",
-    "@google-cloud/secret-manager": "^3.11.0",
+    "@google-cloud/secret-manager": "^6.0.0",
     "@google-cloud/storage": "^6.0.0",
     "@google-cloud/tasks": "^4.0.0",
     "@kernel/auth": "^0.0.1",
