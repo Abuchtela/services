@@ -30,9 +30,9 @@
     ]
   },
   "dependencies": {
-    "@google-cloud/tasks": "^2.5.0",
+    "@google-cloud/tasks": "^4.0.0",
     "ethers": "6.0.0",
-    "googleapis": "^100.0.0"
+    "googleapis": "^124.0.0"
   },
   "devDependencies": {
     "pino-pretty": "^7.5.3",
